@@ -2,13 +2,13 @@ import "package:flutter/material.dart";
 import "package:get/get.dart";
 import "package:get/get_core/src/get_main.dart";
 import "package:iconsax/iconsax.dart";
-import "package:shopping_app/features/authentication/controllers/onboarding_controller.dart";
-import "package:shopping_app/utils/constants/colors.dart";
-import "package:shopping_app/utils/constants/image_strings.dart";
-import "package:shopping_app/utils/constants/sizes.dart";
-import "package:shopping_app/utils/constants/text_strings.dart";
-import "package:shopping_app/utils/device/device_utility.dart";
-import "package:shopping_app/utils/helpers/helper_functions.dart";
+import "package:complaint_app/features/authentication/controllers/onboarding_controller.dart";
+import "package:complaint_app/utils/constants/colors.dart";
+import "package:complaint_app/utils/constants/image_strings.dart";
+import "package:complaint_app/utils/constants/sizes.dart";
+import "package:complaint_app/utils/constants/text_strings.dart";
+import "package:complaint_app/utils/device/device_utility.dart";
+import "package:complaint_app/utils/helpers/helper_functions.dart";
 import "package:smooth_page_indicator/smooth_page_indicator.dart";
 
 class OnBoardingScreen extends StatelessWidget {

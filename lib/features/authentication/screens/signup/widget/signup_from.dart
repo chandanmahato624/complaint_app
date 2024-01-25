@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:shopping_app/features/authentication/screens/signup/verify_email.dart';
-import 'package:shopping_app/utils/constants/colors.dart';
-import 'package:shopping_app/utils/constants/sizes.dart';
-import 'package:shopping_app/utils/constants/text_strings.dart';
-import 'package:shopping_app/utils/helpers/helper_functions.dart';
+import 'package:complaint_app/features/authentication/screens/signup/verify_email.dart';
+import 'package:complaint_app/utils/constants/colors.dart';
+import 'package:complaint_app/utils/constants/sizes.dart';
+import 'package:complaint_app/utils/constants/text_strings.dart';
+import 'package:complaint_app/utils/helpers/helper_functions.dart';
 
 class TSignUpFrom extends StatelessWidget {
   const TSignUpFrom({

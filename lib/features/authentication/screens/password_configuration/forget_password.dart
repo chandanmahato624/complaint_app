@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:shopping_app/features/authentication/screens/password_configuration/reset_password.dart';
-import 'package:shopping_app/utils/constants/sizes.dart';
-import 'package:shopping_app/utils/constants/text_strings.dart';
+import 'package:complaint_app/features/authentication/screens/password_configuration/reset_password.dart';
+import 'package:complaint_app/utils/constants/sizes.dart';
+import 'package:complaint_app/utils/constants/text_strings.dart';
 
 class ForgetPassword extends StatelessWidget {
   const ForgetPassword({super.key});

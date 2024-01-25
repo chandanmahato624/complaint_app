@@ -2,17 +2,17 @@
 
 import 'package:flutter/material.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:shopping_app/common/widgets/custom_shapes/container/primary_header_container.dart';
-import 'package:shopping_app/common/widgets/custom_shapes/container/search_container.dart';
-import 'package:shopping_app/common/widgets/image_text_widgets/vertical_image_text.dart';
-import 'package:shopping_app/common/widgets/texts/section_heading.dart';
-import 'package:shopping_app/features/shop/screens/home/home_appbar.dart';
-import 'package:shopping_app/features/shop/screens/home/widget/home_categories.dart';
-import 'package:shopping_app/utils/constants/colors.dart';
-import 'package:shopping_app/utils/constants/image_strings.dart';
-import 'package:shopping_app/utils/constants/sizes.dart';
-import 'package:shopping_app/utils/device/device_utility.dart';
-import 'package:shopping_app/utils/helpers/helper_functions.dart';
+import 'package:complaint_app/common/widgets/custom_shapes/container/primary_header_container.dart';
+import 'package:complaint_app/common/widgets/custom_shapes/container/search_container.dart';
+import 'package:complaint_app/common/widgets/image_text_widgets/vertical_image_text.dart';
+import 'package:complaint_app/common/widgets/texts/section_heading.dart';
+import 'package:complaint_app/features/shop/screens/home/home_appbar.dart';
+import 'package:complaint_app/features/shop/screens/home/widget/home_categories.dart';
+import 'package:complaint_app/utils/constants/colors.dart';
+import 'package:complaint_app/utils/constants/image_strings.dart';
+import 'package:complaint_app/utils/constants/sizes.dart';
+import 'package:complaint_app/utils/device/device_utility.dart';
+import 'package:complaint_app/utils/helpers/helper_functions.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

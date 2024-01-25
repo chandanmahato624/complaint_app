@@ -1,12 +1,12 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:shopping_app/common/widgets/success_screen.dart';
-import 'package:shopping_app/features/authentication/screens/login/login.dart';
-import 'package:shopping_app/utils/constants/image_strings.dart';
-import 'package:shopping_app/utils/constants/sizes.dart';
-import 'package:shopping_app/utils/constants/text_strings.dart';
-import 'package:shopping_app/utils/helpers/helper_functions.dart';
+import 'package:complaint_app/common/widgets/success_screen.dart';
+import 'package:complaint_app/features/authentication/screens/login/login.dart';
+import 'package:complaint_app/utils/constants/image_strings.dart';
+import 'package:complaint_app/utils/constants/sizes.dart';
+import 'package:complaint_app/utils/constants/text_strings.dart';
+import 'package:complaint_app/utils/helpers/helper_functions.dart';
 
 class VerifyEmailScreen extends StatelessWidget {
   const VerifyEmailScreen({super.key});
