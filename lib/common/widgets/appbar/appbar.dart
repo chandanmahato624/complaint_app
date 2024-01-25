@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_navigation/get_navigation.dart';
 import 'package:iconsax/iconsax.dart';
-import 'package:shopping_app/utils/constants/sizes.dart';
-import 'package:shopping_app/utils/device/device_utility.dart';
+import 'package:complaint_app/utils/constants/sizes.dart';
+import 'package:complaint_app/utils/device/device_utility.dart';
 
 class TAppBar extends StatelessWidget implements PreferredSizeWidget {
   const TAppBar({
